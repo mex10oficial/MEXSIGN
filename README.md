@@ -6,7 +6,7 @@ Api da mex10.com/sign
 *Todos os parâmetros como FORM DATA
 
 
-# =========== Create document ================
+#  Create document 
 
 Parameters POST
 
@@ -31,7 +31,7 @@ users: JSON contendo os signatários que irão assinar o documento
 ]
 }
 
-# =========== Status document ================
+#  Status document 
 
 Parameters POST
 
